@@ -17,7 +17,7 @@ An 8-week course where non-CS undergraduates go from a problem they care about t
 | 3 | **Technical Prototype Strategy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/human-centered-ai-applications/blob/main/week-03.ipynb) | Browse HF Hub, run pipelines, compare models, read model cards, define MVP, PDER named |
 | 4 | **First Build** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/human-centered-ai-applications/blob/main/week-04.ipynb) | Direct Claude Code to build app, wrap in gr.Interface, first user test, 6-question examination |
 | 5 | **Deploy** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/human-centered-ai-applications/blob/main/week-05.ipynb) | Upgrade to gr.Blocks, three-file pattern, deploy to HF Spaces, get a public URL |
-| 6 | **Real Users and Domain Fit** | *Coming soon* | User test protocol, accountability analysis, prioritized fix list |
+| 6 | **Real Users and Domain Fit** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/human-centered-ai-applications/blob/main/week-06.ipynb) | User test protocol, accountability analysis, domain fit, prioritized fix list |
 | 7 | **Responsible AI Hardening** | *Coming soon* | Failure catalog, Should-We-Build-This, safeguards, capability statement, deploy v2 |
 | 8 | **Ship and Reflect** | *Coming soon* | Final polish, Product Brief, presentations, reflection |
 
@@ -30,7 +30,7 @@ An 8-week course where non-CS undergraduates go from a problem they care about t
 | [Claude](https://claude.ai) | $20/month (Pro) | Weeks 1-8 |
 | [Google AI Studio](https://aistudio.google.com) | Free | Weeks 1, 3 |
 | [Hugging Face Spaces](https://huggingface.co/spaces) | Free | Weeks 5-8 |
-| [Google Colab](https://colab.research.google.com) | Free | Weeks 1-5 (notebooks above) |
+| [Google Colab](https://colab.research.google.com) | Free | Weeks 1-6 (notebooks above) |
 
 ---
 
